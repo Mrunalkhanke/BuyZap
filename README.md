@@ -12,7 +12,6 @@ The proposed solution involves implementing custom AR solutions that cater to di
 2. You can view [Demo video](https://drive.google.com/file/d/1ZjLEXXqiNXdVHI5Lp_A4lW1tMI8rfi6d/view?usp=sharing)
 
 ## Screenshots of the application :
-<img width="169" height="340" alt="image" src="https://github.com/junitsurani/BuyZapp/assets/119681370/494f825c-9bc4-4a8a-b01b-815327515292">
 <img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/806096a0-6bfe-4f0e-9c73-11ec9dd73416">
 <img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/778b5da5-542a-42be-87ab-3cc15a9c0407">
 <img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/2cea50a4-6ad5-4464-adc9-048366a568b5">
