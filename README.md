@@ -28,7 +28,7 @@ Introducing custom AR solutions tailored to your shopping experience:
 5. **Scalable Future**: Expand and evolve with scalable AR design. 🌱
 6. **Iterative Development**: Continuous improvement for optimal AR performance. 🔄
 
-## You can view the [PPT](https://drive.google.com/file/d/1eyEE80UMepWcoALIfbs7yi1i9p5_iIql/view?usp=sharing), 
+## You can view the [PPT](https://drive.google.com/file/d/1eyEE80UMepWcoALIfbs7yi1i9p5_iIql/view?usp=sharing)
 
 ## Screenshots of the application :
 ![Group 21](https://github.com/user-attachments/assets/dfc9dcce-413c-49bf-80b4-86b3314762d3)
