@@ -1,15 +1,36 @@
 
-# BuyZap
-BuyZap is an AR Ecommerce Application ,Revolutionizing retail with AR innovation, our project aims to foster inclusivity, enhance size selection precision, and provide accessible virtual try-ons. Overcoming geographical shopping constraints, we drive customer-centric innovation through cost-efficient AR solutions, scalable design, and iterative development.
+# BuyZapp: Revolutionizing Retail with AR Innovation 🛒 📸
+Welcome to BuyZap, the cutting-edge AR Ecommerce Application that’s transforming the retail experience! 🚀 Our mission is to make shopping more inclusive, precise, and accessible by leveraging the power of augmented reality (AR). Say goodbye to geographical constraints and hello to a new era of customer-centric innovation! 🌍🛒
 
-## Problem Statement:
-Our project addresses the challenges faced by diverse retail environments by leveraging augmented reality (AR) technology. We aim to enhance inclusivity by providing personalized experiences for customers of all body types, overcoming geographical shopping constraints, and driving customer-centric innovation through cost-efficient AR solutions.
+## Intro To Buyzapp Video
+[![Thumbnail with Play Button](https://img.youtube.com/vi/3KH0MiOmWds/maxresdefault.jpg)](https://youtu.be/3KH0MiOmWds)
 
-## Proposed Solution:
-The proposed solution involves implementing custom AR solutions that cater to diverse customer demographics, offering precise size selection and accessible virtual try-ons. By creating AR-based virtual stores, we aim to provide a comprehensive shopping experience without the need for VR technology. Additionally, we plan to drive customer empowerment through innovative AR features, ensuring a valued and represented shopping experience.
-1. You can view the [PPT](https://drive.google.com/file/d/1eyEE80UMepWcoALIfbs7yi1i9p5_iIql/view?usp=sharing), 
 
-2. You can view [Demo video](https://drive.google.com/file/d/1ZjLEXXqiNXdVHI5Lp_A4lW1tMI8rfi6d/view?usp=sharing)
+## Problem Statement 🛠️
+
+We’re tackling the challenges of diverse retail environments by integrating AR technology. Our goal is to:
+
+1. **Enhance Inclusivity** : Offer personalized experiences for all body types, ensuring everyone feels represented. 🤗
+
+2. **Improve Size Selection Precision**: Reduce the hassle of returns and enhance satisfaction. 📏
+   
+3. **Break Geographical Barriers**: Make shopping accessible from anywhere. 🌐
+   
+4. **Drive Customer-Centric Innovation**: Provide cost-efficient AR solutions that evolve with customer needs. 💡
+
+## Proposed Solution 💡
+Introducing custom AR solutions tailored to your shopping experience:
+
+1. **Custom AR Solutions**: Seamless integration with your brand identity. 🎨
+2. **Increased Engagement**: Interactive AR features for a memorable shopping journey. 🛍️
+3. **Effectiveness Metrics**: Analyze AR impact on engagement and conversion rates. 📊
+4. **Cost-Efficient AR**: Affordable alternatives to physical stores. 💰
+5. **Scalable Future**: Expand and evolve with scalable AR design. 🌱
+6. **Iterative Development**: Continuous improvement for optimal AR performance. 🔄
+
+## You can view the [PPT](https://drive.google.com/file/d/1eyEE80UMepWcoALIfbs7yi1i9p5_iIql/view?usp=sharing), 
+
+##You can view [Demo video](https://drive.google.com/file/d/1ZjLEXXqiNXdVHI5Lp_A4lW1tMI8rfi6d/view?usp=sharing)
 
 ## Screenshots of the application :
 <img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/806096a0-6bfe-4f0e-9c73-11ec9dd73416">
